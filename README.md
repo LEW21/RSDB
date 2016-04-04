@@ -1,2 +1,1 @@
-# rsdb
-Ruch Społeczny Demokracja Bezpośrednia
+# Ruch Społeczny Demokracja Bezpośrednia
