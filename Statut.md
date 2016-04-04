@@ -171,7 +171,7 @@ Władzami DB są:
 1. System elektroniczny DB, zwany dalej Systemem, to system umożliwiający publikowanie deklaracji, wydawanie postanowień, a także zgłaszanie i głosowanie projektów uchwał.
 2. System działa pod adresem internetowym http://rs.db.org.pl/
 3. Treści umieszczane w Systemie są jawne.
-4. Dokładne zasady funkcjonowania Systemu precyzuje uchwała Ogółu Członków ([[Regulamin Systemu]]).
+4. Dokładne zasady funkcjonowania Systemu precyzuje uchwała Ogółu Członków - [[Regulamin Systemu]].
 
 ### Art. D4. Konta w Systemie
 1. Członek DB ma możliwość posiadania konta w Systemie.
